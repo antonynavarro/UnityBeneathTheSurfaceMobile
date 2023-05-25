@@ -1,0 +1,193 @@
+fileFormatVersion: 2
+guid: 368142a71b6be8c42842c610e68afb57
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4600221706915705455
+    second: poisson lanterne_0
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: poisson lanterne_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 300
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.069305, y: 86.62187}
+        - {x: 19.12915, y: 43.86847}
+        - {x: 37.97397, y: 42.68596}
+        - {x: 37.960815, y: 29.349167}
+        - {x: 58.522354, y: 23.335358}
+        - {x: 72.055466, y: 8.533211}
+        - {x: 89.7605, y: 20.76667}
+        - {x: 99.72772, y: 43.05417}
+        - {x: 122.80557, y: 41.057846}
+        - {x: 125.005585, y: 29.105095}
+        - {x: 136.43008, y: 26.129967}
+        - {x: 139.72617, y: -58.00704}
+        - {x: 123.83673, y: -57.698376}
+        - {x: 122.1749, y: -72.04112}
+        - {x: 99.49077, y: -70.43627}
+        - {x: 90.13591, y: -51.972008}
+        - {x: 79.51004, y: -41.810852}
+        - {x: 67.55397, y: -30.46939}
+        - {x: 62.484528, y: -55.173717}
+        - {x: 19.419891, y: -57.365826}
+        - {x: 18.89737, y: -86.469574}
+        - {x: -4.336426, y: -86.486275}
+        - {x: -6.4845886, y: -72.00438}
+        - {x: -93.2815, y: -71.85219}
+        - {x: -94.98659, y: -56.10007}
+        - {x: -107.5927, y: -57.02395}
+        - {x: -108.12619, y: -41.893826}
+        - {x: -124.90567, y: -43.59533}
+        - {x: -123.14189, y: -14.713631}
+        - {x: -95.1111, y: -16.105606}
+        - {x: -93.75084, y: 27.69867}
+        - {x: -80.779785, y: 29.22651}
+        - {x: -81.4364, y: 73.74942}
+        - {x: -108.54376, y: 74.48944}
+        - {x: -109.852905, y: 58.23764}
+        - {x: -95.966, y: 58.229294}
+        - {x: -95.103195, y: 45.39322}
+        - {x: -109.28389, y: 44.395844}
+        - {x: -110.16585, y: 28.408562}
+        - {x: -124.234055, y: 29.119797}
+        - {x: -124.66781, y: 44.91159}
+        - {x: -138.05264, y: 45.260727}
+        - {x: -137.15013, y: 58.15457}
+        - {x: -124.32982, y: 59.20999}
+        - {x: -126.09326, y: 72.98447}
+        - {x: -111.7284, y: 74.691376}
+        - {x: -110.493835, y: 88.27162}
+        - {x: -80.864204, y: 87.65434}
+        - {x: -81.50654, y: 74.45235}
+        - {x: -68.70615, y: 72.38547}
+        - {x: -65.31914, y: 58.141937}
+        - {x: -24.015907, y: 58.19687}
+        - {x: -7.4074097, y: 74.07408}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6270c8f44547df30800000000000000
+      internalID: 4600221706915705455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
